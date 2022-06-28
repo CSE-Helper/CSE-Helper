@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSE-Helper
 - 👀 I’m interested in helping for Exams
 - 🌱 I’m currently learning to help Others
-- 💞️ I’m looking to collaborate on 🙂
+- 💞️ I’m looking to collaborate on finding Answers🙂
 - 📫 How to reach me ...😶‍🌫️
 
 <!---
