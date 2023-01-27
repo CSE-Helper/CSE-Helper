@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping for Exams
 - 🌱 I’m currently learning to help Others
 - 💞️ I’m looking to collaborate on finding Answers🙂
-- 📫 How to reach me ...😶‍🌫️
+- 📫 You know how to reach me ...😶‍🌫️
 
 <!---
 CSE-Helper/CSE-Helper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
