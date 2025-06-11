@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CSE-Helper
+- 👋 Hi, I’m @CSE-Helper From Sona College Of Technology
 - 👀 I’m interested in helping for Exams
 - 🌱 I’m currently learning to help Others
 - 💞️ I’m looking to collaborate on finding Answers🙂
